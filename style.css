@@ -496,9 +496,9 @@ main .chat-box .day span {
 	padding: 6px 12px;
 	border-radius: 20px;
 	background: #ffa500;
-	color: var(--blue);
+	color: var(--dark);
 	font-size: 12px;
-	font-weight: 600;
+	font-weight: 900;
 }
 main .chat-box .msg img {
 	width: 28px;

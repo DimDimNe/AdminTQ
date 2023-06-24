@@ -171,7 +171,9 @@ var options = {
 }, {
   name: 'Đánh giá',
   data: [11, 32, 45, 32, 34, 52, 41]
-}],
+},
+
+],
   chart: {
   height: 350,
   type: 'area'
@@ -192,6 +194,5 @@ tooltip: {
   },
 },
 };
-
 var chart = new ApexCharts(document.querySelector("#chart"), options);
 chart.render();
